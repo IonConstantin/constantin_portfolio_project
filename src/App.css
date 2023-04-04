@@ -19,6 +19,9 @@
 }
 
 .footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
   height: 10vh;
   background-color: #f5f5f5;
   border-top: 3px solid whitesmoke;
@@ -103,4 +106,18 @@
   100% {
     background-position: 0 0;
   }
+}
+
+i {
+}
+
+.fa-brands {
+  font-size: 1.5rem;
+  font-weight: bold;
+  
+}
+.footerbutton {
+  padding: 10px;
+  border-radius: 5px;
+  background-color: #3dbbf1;
 }
