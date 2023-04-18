@@ -118,14 +118,11 @@
 .footerbutton {
   padding: 10px;
   border-radius: 5px;
-  background-color: #3dbbf1;
+  background-color: #10a3e2;
 }
 
 .info-card {
-  border: 1px solid rgb(26, 82, 236);
-  border-radius: 5px;
   padding: 5px;
-  box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.3);
   width: 30vb;
   margin-left: 3em;
 }
